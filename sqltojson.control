@@ -1,0 +1,5 @@
+# sqltojson extension
+comment = 'Função que converte o comando sql em uma localização no json'
+default_version = '1.0'
+module_pathname = '$libdir/sqltojson'
+relocatable = false
